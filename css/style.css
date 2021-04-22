@@ -1,6 +1,3 @@
-.nav{
-    background-color: aqua;
-}
 
 .left{
     background-color: blue;
@@ -11,5 +8,5 @@
 }
 
 .footer{
-    background-color: darkgray;
+    background-color: rgb(122, 134, 185);
 }
